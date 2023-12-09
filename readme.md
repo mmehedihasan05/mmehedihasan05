@@ -5,7 +5,7 @@
 <!-- About Me -->
 <div style="border-bottom: 1px solid #6a7084; margin-bottom:10px;">
 
-## **About Me**
+## **😀 About Me**
 
 </div>
 
@@ -18,7 +18,7 @@
 <!-- Current Stats -->
 <div style="border-bottom: 1px solid #6a7084; margin-bottom:10px;">
 
-## **Current Stats**
+## **📊 Current Stats**
 
 </div>
 
@@ -31,7 +31,7 @@
 <!-- My Skills -->
 <div style="border-bottom: 1px solid #6a7084; margin-bottom:10px;">
 
-## **My skills**
+## **🧠 My skills**
 
 </div>
 
@@ -46,7 +46,7 @@
 <!-- Contact -->
 <div style="border-bottom: 1px solid #6a7084; margin-bottom:10px;">
 
-## **Reach Me**
+## **📨 Reach Me**
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div style="border-bottom: 1px solid #6a7084; margin-bottom:10px;">
 
-## **My Projects**
+## **📃 My Projects**
 
 </div>
 
